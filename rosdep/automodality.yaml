@@ -1,4 +1,4 @@
 acsl_sdk:
   ubuntu:
-    xenial: [ros-melodic-acsl-sdk]
-    
+    bionic: [ros-melodic-acsl-sdk]
+

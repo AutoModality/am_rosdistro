@@ -4,10 +4,9 @@ AutoModality's extension of rosdistro private packages not eligible for merging
 ## Usage
 
 Intended as an extension to the standard [rosdep](http://wiki.ros.org/rosdep), the files provided cause no conflict
-and are to be delivered after `rosdep init` and will be updated with `rosdep update`.
+and are to be delivered after `rosdep init` (prerequisite) and will be updated with `rosdep update`.
 
 ```
-sudo rosdep init
 sudo curl https://raw.githubusercontent.com/AutoModality/am_rosdistro/main/rosdep/sources.list.d/10-automodality.list --output /etc/ros/rosdep/sources.list.d/10-automodality.list
 rosdep update
 ```

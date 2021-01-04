@@ -7,6 +7,9 @@ acsl_sdk:
 am_msgs:
   ubuntu:
     bionic: [ros-melodic-am-msgs]
+am_node_template:
+  ubuntu:
+    bionic: [ros-melodic-am-node-template]
 am_rostest:
   ubuntu:
     bionic: [ros-melodic-am-rostest]

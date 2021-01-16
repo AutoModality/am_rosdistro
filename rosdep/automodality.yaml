@@ -19,4 +19,7 @@ am_super:
 am_utils:
   ubuntu:
     bionic: [ros-melodic-am-utils]
+ceres_solver:
+  ubuntu:
+    bionic: [ros-melodic-ceres-solver]
 

@@ -22,4 +22,6 @@ am_utils:
 ceres_solver:
   ubuntu:
     bionic: [ros-melodic-ceres-solver]
-
+pcl:
+  ubuntu:
+    bionic: [pcl]

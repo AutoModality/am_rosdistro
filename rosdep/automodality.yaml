@@ -22,6 +22,15 @@ am_utils:
 ceres_solver:
   ubuntu:
     bionic: [ros-melodic-ceres-solver]
+control_toolbox:
+  ubuntu:
+    bionic: [ros-melodic-am-control-toolbox]
+latency_testing:
+  ubuntu:
+    bionic: [ros-melodic-latency-testing]
 pcl:
   ubuntu:
     bionic: [pcl]
+shm_transport:
+  ubuntu:
+    bionic: [ros-melodic-shm-transport]

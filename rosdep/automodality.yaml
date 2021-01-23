@@ -7,12 +7,18 @@ acsl_sdk:
 aloam:
   ubuntu:
     bionic: [ros-melodic-aloam]
+am_flight_plan:
+  ubuntu:
+    bionic: [ros-melodic-am-flight-plan]
 am_msgs:
   ubuntu:
     bionic: [ros-melodic-am-msgs]
 am_node_template:
   ubuntu:
     bionic: [ros-melodic-am-node-template]
+am_pcl:
+  ubuntu:
+    bionic: [ros-melodic-am-pcl]
 am_rostest:
   ubuntu:
     bionic: [ros-melodic-am-rostest]
@@ -22,6 +28,12 @@ am_super:
 am_utils:
   ubuntu:
     bionic: [ros-melodic-am-utils]
+am_world:
+  ubuntu:
+    bionic: [ros-melodic-am-world]
+brain_box_msgs:
+  ubuntu:
+    bionic: [ros-melodic-am-msgs]
 ceres_solver:
   ubuntu:
     bionic: [ros-melodic-ceres-solver]

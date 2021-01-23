@@ -4,6 +4,9 @@ acsl_flight_api:
 acsl_sdk:
   ubuntu:
     bionic: [ros-melodic-acsl-sdk]
+aloam:
+  ubuntu:
+    bionic: [ros-melodic-aloam]
 am_msgs:
   ubuntu:
     bionic: [ros-melodic-am-msgs]

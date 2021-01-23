@@ -25,6 +25,9 @@ ceres_solver:
 control_toolbox:
   ubuntu:
     bionic: [ros-melodic-am-control-toolbox]
+dji_osdk_ros:
+  ubuntu:
+    bionic: [ros-melodic-dji-osdk-ros]
 latency_testing:
   ubuntu:
     bionic: [ros-melodic-latency-testing]

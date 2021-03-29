@@ -19,6 +19,9 @@ am_node_template:
 am_pcl:
   ubuntu:
     bionic: [ros-melodic-am-pcl]
+am_realsense2_camera:
+  ubuntu:
+    bionic: [ros-melodic-am-realsense2-camera]
 am_rostest:
   ubuntu:
     bionic: [ros-melodic-am-rostest]
@@ -52,6 +55,9 @@ latency_testing:
 pcl:
   ubuntu:
     bionic: [pcl]
+realsense2_camera:
+  ubuntu:
+    bionic: [ros-melodic-realsense2-camera]
 shm_transport:
   ubuntu:
     bionic: [ros-melodic-shm-transport]

@@ -43,6 +43,12 @@ ceres_solver:
 control_toolbox:
   ubuntu:
     bionic: [ros-melodic-am-control-toolbox]
+darknet:
+  ubuntu:
+    bionic: [ros-melodic-darknet]
+darknet_ros:
+  ubuntu:
+    bionic: [ros-melodic-darknet-ros]
 dji_onboard_sdk:
   ubuntu:
     bionic: [dji-onboard-sdk]

@@ -19,6 +19,9 @@ am_node_template:
 am_pcl:
   ubuntu:
     bionic: [ros-melodic-am-pcl]
+am_perception:
+  ubuntu:
+    bionic: [ros-melodic-am-perception]
 am_realsense2_camera:
   ubuntu:
     bionic: [ros-melodic-am-realsense2-camera]
